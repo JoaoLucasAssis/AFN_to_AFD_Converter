@@ -1,0 +1,3 @@
+aceito 001110101
+aceito 1100101
+aceito 1100
